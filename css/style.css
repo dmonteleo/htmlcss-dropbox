@@ -1,0 +1,14 @@
+/* HEADER */
+
+header {
+  height: 80px;
+  line-height: 80px;
+}
+
+menu nav {
+  display: inline-block;
+}
+
+li, a {
+  float: left;
+}
